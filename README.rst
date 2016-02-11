@@ -5,12 +5,12 @@ cake to graphite
 
 Description
 ===========
-cake to graphite delivers data from statuscake.com to your graphite host
+"cake to graphite" delivers data from www.statuscake.com to your graphite host
 
 Example config
 ========
 
-.. code-block::python
+.. code-block:: python
 	username: username
 	apikey: xyz123245
 	graphitehost: graphite.host.name
