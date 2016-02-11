@@ -1,0 +1,6 @@
+username: username
+apikey: xyz123245
+graphitehost: graphite.host.name
+tests:
+   testNummer1: 123456
+   testNummer2: 123457
