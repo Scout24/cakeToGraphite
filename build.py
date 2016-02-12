@@ -7,7 +7,7 @@ use_plugin("python.flake8")
 #use_plugin("python.coverage")
 use_plugin("python.distutils")
 
-name = "status-cake-to-graphite"
+name = "status-cake_to_graphite"
 default_task = "publish"
 
 
