@@ -13,7 +13,6 @@ default_task = "publish"
 
 @init
 def set_properties(project):
-    project.build_depends_on("boto3")
     project.build_depends_on("requests")
     project.build_depends_on("succubus")
     project.build_depends_on("yamlreader")
