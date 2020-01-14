@@ -3,7 +3,8 @@
 cake to graphite
 ========
 
-# This project is DEPRECATED and not any longer supported
+This project is DEPRECATED and not any longer supported
+=======================================================
 
 Description
 ===========
