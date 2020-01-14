@@ -3,6 +3,8 @@
 cake to graphite
 ========
 
+# This project is DEPRECATED and not any longer supported
+
 Description
 ===========
 "cake to graphite" delivers data from www.statuscake.com to your graphite host
